@@ -9,9 +9,10 @@ Materials for the Digital Texts Workshop at "Digital Disruption in Asia" (Leyden
 ## Installation instructions
 
 In this section, I will guide through the necessary steps to set up your computer for the course. Before starting the workshop, you will have to:
+
 1. Install the Anaconda Distribution of the Python programming language
 2. Download the course materials for the workshop from Github
-3. Install a decent text editor
+3. Install a decent text editor, such as Sublime Text
 
 ### Download course materials
 
@@ -19,7 +20,7 @@ This workshop uses so-called "notebook" which allows you to run Python code live
 
 ### Install Python 3
 
-Please install the Anaconda distribution of Python, which is a package which comes with most of the functionality etc. which you will need for these workshops. Direct your browser to http://continuum.io/downloads#py35 and download the graphical installer. Double-click the downloaded file and install the Python distribution system-wide. Make sure (!) that you download **Python 3**.
+Please install the Anaconda distribution of Python, which is a package which comes with most of the functionality etc. which you will need for this workshop. Direct your browser to http://continuum.io/downloads#py35 and download the graphical installer. Double-click the downloaded file and install the Python distribution system-wide. Make sure (!) that you download **Python 3**.
 
 ### Run the Ipython Notebook
 
@@ -43,8 +44,8 @@ If this returns an error message such as "Command not found", please try running
 
     jupyter notebook
 
-This will launch the jupyter notebook in your browser. Click on "Digital Text Analysis.ipynb" to open and launch the workshop materials.
+This will launch the jupyter notebook in your browser. Click on "Digital Text Analysis.ipynb" to open and launch the main workshop notebook.
 
 ### Download Sublime Text
 
-For this workshop, you will need a decent, cross-platform text editor. I recommend installing [Sublime Text 3](www.sublimetext.com/3). Just surf to the download tab and install the editor.
+For this workshop, it will prove useful to install a decent, cross-platform text editor. I recommend installing [Sublime Text 3](www.sublimetext.com/3). Just surf to the download tab and install the editor.
