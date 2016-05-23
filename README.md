@@ -8,7 +8,10 @@ Materials for the Digital Texts Workshop at "Digital Disruption in Asia" (Leyden
 
 ## Installation instructions
 
-In this section, I will guide through the necessary steps to set up your computer for the course.
+In this section, I will guide through the necessary steps to set up your computer for the course. Before starting the workshop, you will have to:
+1. Install the Anaconda Distribution of the Python programming language
+2. Download the course materials for the workshop from Github
+3. Install a decent text editor
 
 ### Download course materials
 
@@ -22,15 +25,15 @@ Please install the Anaconda distribution of Python, which is a package which com
 
 Once you have installed Python 3, open a terminal (on Linux or Mac OS X) or a command prompt (on Windows) and first cd to the directory in which you saved the tutorial. For Mac OS X users:
 
-    cd /Users/your-user-name/Desktop/twitter-workshop-master
+    cd /Users/your-user-name/Desktop/leyden-workshop-master
 
 For Linux users:
 
-    cd /home/your-user-name/Desktop/twitter-workshop-master
+    cd /home/your-user-name/Desktop/leyden-workshop-master
 
 For Windows users:
 
-    cd c:\Users\your-user-name\Desktop\twitter-workshop-master
+    cd c:\Users\your-user-name\Desktop\leyden-workshop-master
 
 where you need to replace your-user-name with your actual user name on your computer! Next type:
 
@@ -40,7 +43,7 @@ If this returns an error message such as "Command not found", please try running
 
     jupyter notebook
 
-This will launch the jupyter notebook in your browser. Click on workshop.ipynb to open and launch the workshop materials.
+This will launch the jupyter notebook in your browser. Click on "Digital Text Analysis.ipynb" to open and launch the workshop materials.
 
 ### Download Sublime Text
 
